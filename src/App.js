@@ -96,7 +96,7 @@ function App() {
   return (
     <Container>
       <div className="text-center mb-4">
-        <img src="/smash-wordle.svg" alt="Smash Wordle Logo" style={{ height: '60px' }} />
+        <img src={process.env.PUBLIC_URL + '/smash-wordle.svg'} alt="Smash Wordle Logo" style={{ height: '60px' }} />
       </div>
 
       {loading ? (
