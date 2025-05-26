@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-smash-wordle/static/css/main.c673c305.css",
+    "main.js": "/super-smash-wordle/static/js/main.6929ebbc.js",
+    "static/js/453.35caa79c.chunk.js": "/super-smash-wordle/static/js/453.35caa79c.chunk.js",
+    "index.html": "/super-smash-wordle/index.html",
+    "main.c673c305.css.map": "/super-smash-wordle/static/css/main.c673c305.css.map",
+    "main.6929ebbc.js.map": "/super-smash-wordle/static/js/main.6929ebbc.js.map",
+    "453.35caa79c.chunk.js.map": "/super-smash-wordle/static/js/453.35caa79c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c673c305.css",
+    "static/js/main.6929ebbc.js"
+  ]
+}
