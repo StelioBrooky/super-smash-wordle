@@ -1,0 +1,1602 @@
+[
+    {
+        "word": "mario",
+        "hint": "Character"
+    },
+    {
+        "word": "donkey",
+        "hint": "Character"
+    },
+    {
+        "word": "kong",
+        "hint": "Character"
+    },
+    {
+        "word": "link",
+        "hint": "Character"
+    },
+    {
+        "word": "samus",
+        "hint": "Character"
+    },
+    {
+        "word": "yoshi",
+        "hint": "Character"
+    },
+    {
+        "word": "kirby",
+        "hint": "Character"
+    },
+    {
+        "word": "fox",
+        "hint": "Character"
+    },
+    {
+        "word": "pikachu",
+        "hint": "Character"
+    },
+    {
+        "word": "luigi",
+        "hint": "Character"
+    },
+    {
+        "word": "ness",
+        "hint": "Character"
+    },
+    {
+        "word": "falcon",
+        "hint": "Character"
+    },
+    {
+        "word": "puff",
+        "hint": "Character"
+    },
+    {
+        "word": "peach",
+        "hint": "Character"
+    },
+    {
+        "word": "daisy",
+        "hint": "Character"
+    },
+    {
+        "word": "bowser",
+        "hint": "Character"
+    },
+    {
+        "word": "icies",
+        "hint": "Character"
+    },
+    {
+        "word": "sheik",
+        "hint": "Character"
+    },
+    {
+        "word": "zelda",
+        "hint": "Character"
+    },
+    {
+        "word": "drmario",
+        "hint": "Character"
+    },
+    {
+        "word": "pichu",
+        "hint": "Character"
+    },
+    {
+        "word": "falco",
+        "hint": "Character"
+    },
+    {
+        "word": "marth",
+        "hint": "Character"
+    },
+    {
+        "word": "lucina",
+        "hint": "Character"
+    },
+    {
+        "word": "ganon",
+        "hint": "Character"
+    },
+    {
+        "word": "mewtwo",
+        "hint": "Character"
+    },
+    {
+        "word": "roy",
+        "hint": "Character"
+    },
+    {
+        "word": "chrom",
+        "hint": "Character"
+    },
+    {
+        "word": "pit",
+        "hint": "Character"
+    },
+    {
+        "word": "darkpit",
+        "hint": "Character"
+    },
+    {
+        "word": "zss",
+        "hint": "Character"
+    },
+    {
+        "word": "wario",
+        "hint": "Character"
+    },
+    {
+        "word": "snake",
+        "hint": "Character"
+    },
+    {
+        "word": "ike",
+        "hint": "Character"
+    },
+    {
+        "word": "diddy",
+        "hint": "Character"
+    },
+    {
+        "word": "lucas",
+        "hint": "Character"
+    },
+    {
+        "word": "sonic",
+        "hint": "Character"
+    },
+    {
+        "word": "dedede",
+        "hint": "Character"
+    },
+    {
+        "word": "olimar",
+        "hint": "Character"
+    },
+    {
+        "word": "lucario",
+        "hint": "Character"
+    },
+    {
+        "word": "rob",
+        "hint": "Character"
+    },
+    {
+        "word": "wolf",
+        "hint": "Character"
+    },
+    {
+        "word": "megaman",
+        "hint": "Character"
+    },
+    {
+        "word": "wiifit",
+        "hint": "Character"
+    },
+    {
+        "word": "luma",
+        "hint": "Character"
+    },
+    {
+        "word": "mac",
+        "hint": "Character"
+    },
+    {
+        "word": "mii",
+        "hint": "Character"
+    },
+    {
+        "word": "brawler",
+        "hint": "Playstyle/Archetype"
+    },
+    {
+        "word": "sword",
+        "hint": "Playstyle/Archetype"
+    },
+    {
+        "word": "gunner",
+        "hint": "Playstyle/Archetype"
+    },
+    {
+        "word": "palu",
+        "hint": "Character"
+    },
+    {
+        "word": "pacman",
+        "hint": "Character"
+    },
+    {
+        "word": "robin",
+        "hint": "Character"
+    },
+    {
+        "word": "shulk",
+        "hint": "Character"
+    },
+    {
+        "word": "junior",
+        "hint": "Character"
+    },
+    {
+        "word": "ryu",
+        "hint": "Character"
+    },
+    {
+        "word": "ken",
+        "hint": "Character"
+    },
+    {
+        "word": "cloud",
+        "hint": "Character"
+    },
+    {
+        "word": "corrin",
+        "hint": "Character"
+    },
+    {
+        "word": "bayo",
+        "hint": "Character"
+    },
+    {
+        "word": "inkling",
+        "hint": "Character"
+    },
+    {
+        "word": "ridley",
+        "hint": "Character"
+    },
+    {
+        "word": "simon",
+        "hint": "Character"
+    },
+    {
+        "word": "richter",
+        "hint": "Character"
+    },
+    {
+        "word": "krool",
+        "hint": "Character"
+    },
+    {
+        "word": "plant",
+        "hint": "Character"
+    },
+    {
+        "word": "joker",
+        "hint": "Character"
+    },
+    {
+        "word": "hero",
+        "hint": "Character"
+    },
+    {
+        "word": "banjo",
+        "hint": "Character"
+    },
+    {
+        "word": "kazooie",
+        "hint": "Character"
+    },
+    {
+        "word": "terry",
+        "hint": "Character"
+    },
+    {
+        "word": "byleth",
+        "hint": "Character"
+    },
+    {
+        "word": "minmin",
+        "hint": "Character"
+    },
+    {
+        "word": "steve",
+        "hint": "Character"
+    },
+    {
+        "word": "pyra",
+        "hint": "Character"
+    },
+    {
+        "word": "mythra",
+        "hint": "Character"
+    },
+    {
+        "word": "kazuya",
+        "hint": "Character"
+    },
+    {
+        "word": "sora",
+        "hint": "Character"
+    },
+    {
+        "word": "metroid",
+        "hint": "Series"
+    },
+    {
+        "word": "starfox",
+        "hint": "Series"
+    },
+    {
+        "word": "mother",
+        "hint": "Series"
+    },
+    {
+        "word": "fzero",
+        "hint": "Series"
+    },
+    {
+        "word": "emblem",
+        "hint": "Series"
+    },
+    {
+        "word": "icarus",
+        "hint": "Series"
+    },
+    {
+        "word": "pikmin",
+        "hint": "Series"
+    },
+    {
+        "word": "wii",
+        "hint": "Console"
+    },
+    {
+        "word": "persona",
+        "hint": "Series"
+    },
+    {
+        "word": "dragon",
+        "hint": "Series"
+    },
+    {
+        "word": "arms",
+        "hint": "Series"
+    },
+    {
+        "word": "tekken",
+        "hint": "Series"
+    },
+    {
+        "word": "stock",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "time",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "stamina",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "castle",
+        "hint": "Stage"
+    },
+    {
+        "word": "hyrule",
+        "hint": "Stage"
+    },
+    {
+        "word": "kongo",
+        "hint": "Stage"
+    },
+    {
+        "word": "temple",
+        "hint": "Stage"
+    },
+    {
+        "word": "venom",
+        "hint": "Stage"
+    },
+    {
+        "word": "onett",
+        "hint": "Stage"
+    },
+    {
+        "word": "bigblue",
+        "hint": "Stage"
+    },
+    {
+        "word": "delfino",
+        "hint": "Stage"
+    },
+    {
+        "word": "eldin",
+        "hint": "Stage"
+    },
+    {
+        "word": "norfair",
+        "hint": "Stage"
+    },
+    {
+        "word": "frigate",
+        "hint": "Stage"
+    },
+    {
+        "word": "island",
+        "hint": "Stage"
+    },
+    {
+        "word": "halberd",
+        "hint": "Stage"
+    },
+    {
+        "word": "lylat",
+        "hint": "Stage"
+    },
+    {
+        "word": "summit",
+        "hint": "Stage"
+    },
+    {
+        "word": "mansion",
+        "hint": "Stage"
+    },
+    {
+        "word": "gerudo",
+        "hint": "Stage"
+    },
+    {
+        "word": "spirit",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "unova",
+        "hint": "Stage"
+    },
+    {
+        "word": "prism",
+        "hint": "Stage"
+    },
+    {
+        "word": "ferox",
+        "hint": "Stage"
+    },
+    {
+        "word": "picto",
+        "hint": "Stage"
+    },
+    {
+        "word": "galaxy",
+        "hint": "Stage"
+    },
+    {
+        "word": "circuit",
+        "hint": "Stage"
+    },
+    {
+        "word": "skyloft",
+        "hint": "Stage"
+    },
+    {
+        "word": "kalos",
+        "hint": "Stage"
+    },
+    {
+        "word": "gamer",
+        "hint": "Stage"
+    },
+    {
+        "word": "garden",
+        "hint": "Stage"
+    },
+    {
+        "word": "town",
+        "hint": "Stage"
+    },
+    {
+        "word": "boxing",
+        "hint": "Stage"
+    },
+    {
+        "word": "ring",
+        "hint": "Stage"
+    },
+    {
+        "word": "gaur",
+        "hint": "Stage"
+    },
+    {
+        "word": "wuhu",
+        "hint": "Stage"
+    },
+    {
+        "word": "wily",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "pacland",
+        "hint": "Stage"
+    },
+    {
+        "word": "suzaku",
+        "hint": "Stage"
+    },
+    {
+        "word": "midgar",
+        "hint": "Stage"
+    },
+    {
+        "word": "moray",
+        "hint": "Stage"
+    },
+    {
+        "word": "garreg",
+        "hint": "Stage"
+    },
+    {
+        "word": "alrest",
+        "hint": "Stage"
+    },
+    {
+        "word": "mishima",
+        "hint": "Stage"
+    },
+    {
+        "word": "bastion",
+        "hint": "Stage"
+    },
+    {
+        "word": "altar",
+        "hint": "Stage"
+    },
+    {
+        "word": "melee",
+        "hint": "Game"
+    },
+    {
+        "word": "brawl",
+        "hint": "Game"
+    },
+    {
+        "word": "smash",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "ulti",
+        "hint": "Game"
+    },
+    {
+        "word": "wiiu",
+        "hint": "Console"
+    },
+    {
+        "word": "switch",
+        "hint": "Console"
+    },
+    {
+        "word": "trophy",
+        "hint": "Item"
+    },
+    {
+        "word": "assist",
+        "hint": "Item"
+    },
+    {
+        "word": "dragoon",
+        "hint": "Item"
+    },
+    {
+        "word": "final",
+        "hint": "Item"
+    },
+    {
+        "word": "sandbag",
+        "hint": "Item"
+    },
+    {
+        "word": "super",
+        "hint": "Miscelaneous"
+    },
+    {
+        "word": "hammer",
+        "hint": "Item"
+    },
+    {
+        "word": "timer",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "star",
+        "hint": "Item"
+    },
+    {
+        "word": "homerun",
+        "hint": "Item"
+    },
+    {
+        "word": "staff",
+        "hint": "Item"
+    },
+    {
+        "word": "shell",
+        "hint": "Item"
+    },
+    {
+        "word": "deku",
+        "hint": "Item"
+    },
+    {
+        "word": "bomb",
+        "hint": "Item"
+    },
+    {
+        "word": "beam",
+        "hint": "Item"
+    },
+    {
+        "word": "banana",
+        "hint": "Item"
+    },
+    {
+        "word": "bunny",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "cucco",
+        "hint": "Item"
+    },
+    {
+        "word": "barrel",
+        "hint": "Item"
+    },
+    {
+        "word": "beetle",
+        "hint": "Item"
+    },
+    {
+        "word": "krystal",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "guile",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "squid",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "akira",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "alucard",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "grayfox",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "isaac",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "shadow",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "snagret",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "zero",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "shovel",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "moon",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "midna",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "ashley",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "jeff",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "goroh",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "ghosts",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "waluigi",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "rodin",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "yuri",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "sukapon",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "kappn",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "thwomp",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "chomp",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "andross",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "starfy",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "sable",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "sheriff",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "dillon",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "vince",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "tiki",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "lyn",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "nikki",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "skull",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "starman",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "devil",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "riki",
+        "hint": "Assist Trophy"
+    },
+    {
+        "word": "dracula",
+        "hint": "Boss"
+    },
+    {
+        "word": "marx",
+        "hint": "Boss"
+    },
+    {
+        "word": "galleom",
+        "hint": "Boss"
+    },
+    {
+        "word": "master",
+        "hint": "Boss"
+    },
+    {
+        "word": "crazy",
+        "hint": "Boss"
+    },
+    {
+        "word": "hand",
+        "hint": "Boss"
+    },
+    {
+        "word": "tabuu",
+        "hint": "Boss"
+    },
+    {
+        "word": "giga",
+        "hint": "Boss"
+    },
+    {
+        "word": "galeem",
+        "hint": "Boss"
+    },
+    {
+        "word": "dharkon",
+        "hint": "Boss"
+    },
+    {
+        "word": "world",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "vulpix",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "bewear",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "mimikyu",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "lunala",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "meowth",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "eevee",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "snorlax",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "mew",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "raichu",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "abra",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "porygon",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "ditto",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "goldeen",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "moltres",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "suicune",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "lugia",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "ivysaur",
+        "hint": "Character"
+    },
+    {
+        "word": "kyogre",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "palkia",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "arceus",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "kyurem",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "xerneas",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "scizor",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "staryu",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "togepi",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "chespin",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "entei",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "latias",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "latios",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "deoxys",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "darkrai",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "victini",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "zoroark",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "keldeo",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "snivy",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "spewpa",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "gogoat",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "swirlix",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "inkay",
+        "hint": "Pokémon"
+    },
+    {
+        "word": "shield",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "grab",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "jab",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "tilt",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "throw",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "getup",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "dodge",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "roll",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "jump",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "aerial",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "special",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "side",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "down",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "neutral",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "game",
+        "hint": "Miscelaneous"
+    },
+    {
+        "word": "combo",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "dash",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "attack",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "online",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "offline",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "battle",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "arena",
+        "hint": "Game Mode/Mechanic"
+    },
+    {
+        "word": "pummel",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "sans",
+        "hint": "Mii Costume"
+    },
+    {
+        "word": "skyrim",
+        "hint": "Mii Costume"
+    },
+    {
+        "word": "geno",
+        "hint": "Mii Costume"
+    },
+    {
+        "word": "shantae",
+        "hint": "Mii Costume"
+    },
+    {
+        "word": "sakurai",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "iwata",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "reggie",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "hbox",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "mkleo",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "armada",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "mango",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "leffen",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "acola",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "spargo",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "esam",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "tweek",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "hurt",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "miya",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "light",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "heavy",
+        "hint": "Playstyle/Archetype"
+    },
+    {
+        "word": "campy",
+        "hint": "Playstyle/Archetype"
+    },
+    {
+        "word": "zain",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "plup",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "sonix",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "raru",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "shuton",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "dabuz",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "asimo",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "gluto",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "lima",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "shadic",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "maister",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "snow",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "kola",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "onin",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "alice",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "crepe",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "zomba",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "marss",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "tea",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "ken",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "raki",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "syrup",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "zackray",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "genesis",
+        "hint": "Tournament"
+    },
+    {
+        "word": "evo",
+        "hint": "Tournament"
+    },
+    {
+        "word": "nova",
+        "hint": "Tournament"
+    },
+    {
+        "word": "throne",
+        "hint": "Tournament"
+    },
+    {
+        "word": "apex",
+        "hint": "Tournament"
+    },
+    {
+        "word": "ceo",
+        "hint": "Tournament"
+    },
+    {
+        "word": "piranha",
+        "hint": "Character"
+    },
+    {
+        "word": "charge",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "punch",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "rest",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "fludd",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "misfire",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "bair",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "fair",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "nair",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "dair",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "upair",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "ledge",
+        "hint": "Miscelaneous"
+    },
+    {
+        "word": "pkfire",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "pkflash",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "spike",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "counter",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "knee",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "jablock",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "turnip",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "oos",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "waft",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "shine",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "roller",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "nikita",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "pocket",
+        "hint": "Attack/Control/Move"
+    },
+    {
+        "word": "tornado",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "block",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "can",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "phantom",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "desync",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "pin",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "reflect",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "shoryu",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "kopunch",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "aymr",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "inhale",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "arrow",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "blaster",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "dunban",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "thoron",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "monado",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "limit",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "ptooie",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "arsene",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "nia",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "altair",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "sizz",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "sizzle",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "zap",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "zapple",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "bounce",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "zoom",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "oomph",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "snooze",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "thwack",
+        "hint": "Attack/Control/Move"
+    }, 
+    {
+        "word": "cuphead",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "creeper",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "pig",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "ryo",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "aerith",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "dante",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "erdrick",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "lloyd",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "rex",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "travis",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "yiga",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "barret",
+        "hint": "Mii Costume"
+    }, 
+    {
+        "word": "cosmos",
+        "hint": "Person/Competitor"
+    }, 
+    {
+        "word": "neo",
+        "hint": "Person/Competitor"
+    }, 
+    {
+        "word": "riddles",
+        "hint": "Person/Competitor"
+    }, 
+    {
+        "word": "muteace",
+        "hint": "Person/Competitor"
+    }, 
+    {
+        "word": "peabnut",
+        "hint": "Person/Competitor"
+    }, 
+    {
+        "word": "umeki",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "coney",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "chezib",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "gimr",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "doug",
+        "hint": "Person/Competitor"
+    },
+    {
+        "word": "eevisu",
+        "hint": "Person/Competitor"
+    }
+]
