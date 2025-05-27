@@ -7,6 +7,7 @@ import Keyboard from './components/Keyboard';
 import InputForm from './components/InputForm';
 import GameControls from './components/GameControls';
 import StatusMessage from './components/StatusMessage';
+import { Helmet } from 'react-helmet';
 
 function App() {
   const [randomWord, setRandomWord] = useState('');
@@ -94,74 +95,80 @@ function App() {
   };
 
   return (
-    <Container>
-      <div className="text-center mb-4">
-        <img src={process.env.PUBLIC_URL + '/smash-wordle.svg'} alt="Smash Wordle Logo" style={{ height: '60px' }} />
-      </div>
-
-      {loading ? (
-        <div className="text-center">
-          <div className="spinner-border text-primary" role="status" />
+    <>
+      <Helmet>
+        <title>Smash Wordle</title>
+        <meta name="description" content="Test your Super Smash Bros. knowledge with this fun word guessing game!" />
+      </Helmet>
+      <Container>
+        <div className="text-center mb-4">
+          <img src={process.env.PUBLIC_URL + '/smash-wordle.svg'} alt="Smash Wordle Logo" style={{ height: '60px' }} />
         </div>
-      ) : error ? (
-        <div className="alert alert-danger text-center">{error}</div>
-      ) : (
-        <>
-          {/* Game Mode Toggle */}
-          <div className="text-center mb-3">
-            <label className="me-2">Game Mode:</label>
-            <select
-              value={gameMode}
-              onChange={(e) => setGameMode(e.target.value)}
-              className="form-select w-auto d-inline-block"
-            >
-              <option value="smash">Smash Bros</option>
-              <option value="standard">Standard</option>
-            </select>
-          </div>
-          <WordGrid
-            guesses={guesses}
-            wordLength={wordLength}
-            maxGuesses={maxGuesses}
-            getLetterStatuses={getLetterStatuses}
-          />
-          <StatusMessage gameStatus={gameStatus} answer={randomWord} />
-          <InputForm
-            currentGuess={currentGuess}
-            setCurrentGuess={setCurrentGuess}
-            wordLength={wordLength}
-            onSubmit={handleSubmit}
-            disabled={gameStatus !== 'playing'}
-          />
-          {gameMode === 'smash' && (
-            <div className="text-center mt-3">
-              <button
-                className="btn btn-info btn-sm"
-                onClick={() => setShowHint((prev) => !prev)}
-                disabled={gameStatus !== 'playing'}
-              >
-                {showHint ? 'Hide Hint' : 'Show Hint'}
-              </button>
 
-              {showHint && (
-                <div className="mt-2">
-                  <strong>Hint:</strong> {currentHint}
-                </div>
-              )}
+        {loading ? (
+          <div className="text-center">
+            <div className="spinner-border text-primary" role="status" />
+          </div>
+        ) : error ? (
+          <div className="alert alert-danger text-center">{error}</div>
+        ) : (
+          <>
+            {/* Game Mode Toggle */}
+            <div className="text-center mb-3">
+              <label className="me-2">Game Mode:</label>
+              <select
+                value={gameMode}
+                onChange={(e) => setGameMode(e.target.value)}
+                className="form-select w-auto d-inline-block"
+              >
+                <option value="smash">Smash Bros</option>
+                <option value="standard">Standard</option>
+              </select>
             </div>
-          )}
-          <Keyboard letterStatuses={letterStatuses} />
-          <GameControls
-            fetchRandomWord={fetchRandomWord}
-            gameStatus={gameStatus}
-            wordLength={wordLength}
-            maxGuesses={maxGuesses}
-            setWordLength={setWordLength}
-            setMaxGuesses={setMaxGuesses}
-          />
-        </>
-      )}
-    </Container>
+            <WordGrid
+              guesses={guesses}
+              wordLength={wordLength}
+              maxGuesses={maxGuesses}
+              getLetterStatuses={getLetterStatuses}
+            />
+            <StatusMessage gameStatus={gameStatus} answer={randomWord} />
+            <InputForm
+              currentGuess={currentGuess}
+              setCurrentGuess={setCurrentGuess}
+              wordLength={wordLength}
+              onSubmit={handleSubmit}
+              disabled={gameStatus !== 'playing'}
+            />
+            {gameMode === 'smash' && (
+              <div className="text-center mt-3">
+                <button
+                  className="btn btn-info btn-sm"
+                  onClick={() => setShowHint((prev) => !prev)}
+                  disabled={gameStatus !== 'playing'}
+                >
+                  {showHint ? 'Hide Hint' : 'Show Hint'}
+                </button>
+
+                {showHint && (
+                  <div className="mt-2">
+                    <strong>Hint:</strong> {currentHint}
+                  </div>
+                )}
+              </div>
+            )}
+            <Keyboard letterStatuses={letterStatuses} />
+            <GameControls
+              fetchRandomWord={fetchRandomWord}
+              gameStatus={gameStatus}
+              wordLength={wordLength}
+              maxGuesses={maxGuesses}
+              setWordLength={setWordLength}
+              setMaxGuesses={setMaxGuesses}
+            />
+          </>
+        )}
+      </Container>
+    </>
   );
 }
 
